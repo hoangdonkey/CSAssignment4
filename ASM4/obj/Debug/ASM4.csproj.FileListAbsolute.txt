@@ -1,0 +1,6 @@
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\bin\Debug\ASM4.exe.config
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\bin\Debug\ASM4.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\bin\Debug\ASM4.pdb
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\obj\Debug\ASM4.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\obj\Debug\ASM4.pdb
+D:\Aptech 2nd semester\.Net C#\CSAssignment4\ASM4\obj\Debug\ASM4.csprojResolveAssemblyReference.cache
